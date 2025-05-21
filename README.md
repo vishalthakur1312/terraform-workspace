@@ -1,2 +1,2 @@
-# terraform-workspace
+# terraform-vpc-project
 terraform workspace
